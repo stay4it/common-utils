@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.stay4it.commonutils"
+        applicationId "com.stay4it"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
