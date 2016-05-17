@@ -4,4 +4,5 @@ such as:
 
 Encrypt
 Device
+String
 .etc
